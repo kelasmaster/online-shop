@@ -26,7 +26,7 @@ document.addEventListener('DOMContentLoaded', () => {
     let cart = JSON.parse(localStorage.getItem('cart')) || [];
 
     // Pagination variables
-    const productsPerPage = 8;
+    const productsPerPage = 9;
     let currentPage = 1;
 
     // Setup products
