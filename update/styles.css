@@ -8,8 +8,8 @@
 body {
     font-family: 'Arial', sans-serif;
     line-height: 1.6;
-    background-color: #000;
-    color: #fff;
+    background-color: #fff;
+    color: #000;
 }
 
 .container {
@@ -51,7 +51,7 @@ header .container {
 .nav-menu {
     display: flex;
     align-items: center;
-    background-color: #000;
+    background-color: ##FF8C00;
     padding: 10px 15px;
     border-radius: 4px;
 }
@@ -67,7 +67,7 @@ header .container {
 }
 
 .nav-menu a {
-    color: white;
+    color: black;
     text-decoration: none;
     padding: 8px 12px;
     border-radius: 4px;
@@ -80,7 +80,7 @@ header .container {
 
 .cart-icon {
     position: relative;
-    color: white;
+    color: black;
     font-size: 1.2rem;
     cursor: pointer;
     margin-left: 20px;
@@ -228,7 +228,7 @@ header .container {
 .product .price {
     padding: 0 15px;
     font-weight: bold;
-    color: #FF8C00;
+    color: #fff;
 }
 
 .product button {
